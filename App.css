@@ -1,0 +1,25 @@
+table,thead,tbody,tr,td {
+  border: 3px solid rgb(13, 13, 14);
+}
+.main{
+  
+  justify-content: space-evenly;
+  background-color: rgb(43, 220, 226);
+ 
+}
+
+.child{
+  border:5px solid rgb(13, 10, 17);
+  background-color: rgb(29, 61, 159);
+  justify-content: space-evenly;
+  width:50%;
+}
+
+
+body {
+  background-image: url();
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+  background-color: rgb(43, 220, 226);
+}
